@@ -508,6 +508,24 @@ types:
             data:
               min: 0
               max: 2
+      cherry_sapling:
+        item:
+          name: ''
+          material: 'CHERRY_SAPLING'
+        harvest:
+          cherry_log:
+            name: ''
+            material: 'CHERRY_LOG'
+            data:
+              min: 5
+              max: 10
+          cherry_leaves:
+            enabled: false
+            name: ''
+            material: 'CHERRY_LEAVES'
+            data:
+              min: 2
+              max: 8
       spruce_sapling:
         item:
           name: ''
