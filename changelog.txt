@@ -1,2 +1,1 @@
-- Fixed: failure_cost item
-- Fixed: Fireworks shouldn't do damage
+- Fixed: CMI double holograms
