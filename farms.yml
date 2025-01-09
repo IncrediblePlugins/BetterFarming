@@ -34,8 +34,8 @@ types:
     # Prevent placement of this farm type in specific worlds.
     world-blacklist: [ ]
 
-    # Place a small armor stand instead of the actual farm item.
-    armor-stand:
+    # Place a small minion npc (armor stand) instead of the actual farm block.
+    minion:
       enabled: false
       helmet: 'skin:925a32560831c295b00527926255e608a039776f3523b92edf788149aae67d6a'
       chestplate: 'LEATHER_CHESTPLATE'
@@ -296,7 +296,7 @@ types:
       # Set to false, since most saplings don't have any growth stages.
       stages: false
 
-    armor-stand:
+    minion:
       enabled: false
       helmet: 'skin:63c143640079253eff861872b6c5580c755eda6bdc3ff74a9846d0ce790c7b2e'
       chestplate: 'LEATHER_CHESTPLATE'
@@ -605,7 +605,7 @@ types:
       # Set to false, because ores can't have multiple "growth" stages.
       stages: false
 
-    armor-stand:
+    minion:
       enabled: false
       helmet: 'skin:1a1b5389717a61a0e9421c97988405d5a336a5ac1ee8e0f2f35678d1d61f4550'
       chestplate: 'LEATHER_CHESTPLATE'
