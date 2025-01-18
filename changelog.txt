@@ -1,1 +1,1 @@
-- Fixed: CMI double holograms
+- Fixed: Missing message menu-reopen
