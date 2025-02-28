@@ -1,1 +1,1 @@
-- Fixed: Missing message menu-reopen
++ Added: Item to collect all storage items
