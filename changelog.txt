@@ -1,1 +1,1 @@
-+ Added: Item to collect all storage items
++ Added: Warning if item is air harvest
