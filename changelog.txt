@@ -1,1 +1,1 @@
-+ Added: Warning if item is air harvest
+- Fixed: Storage item cannot be air
