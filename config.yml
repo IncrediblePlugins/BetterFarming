@@ -175,9 +175,12 @@ hologram:
   enabled_11: true
   # Y offset - adjust the height
   offset: 0
+  # Update interval of holograms that display fuel time.
+  # This will update the holograms approximately in the defined interval.
+  update-interval_time: 1m
 
 # General Teleportation Settings
-# Command specific teleportation options can be find in their sections.
+# Command specific teleportation options can be found in their sections.
 teleport:
   # General teleportation cost. Some features might have specific options, which override this.
   costs: 0

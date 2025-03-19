@@ -1,1 +1,4 @@
-- Fixed: Storage item cannot be air
++ Added: Option to set update interval for fuel hologram
+  # Update interval of holograms that display fuel time.
+  # This will update the holograms approximately in the defined interval.
+  update-interval_time: 1m
