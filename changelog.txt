@@ -1,2 +1,2 @@
-- Fixed: Hex color support for farm names
-+ Added: {owner} placeholder for holograms
++ Added: Dialogs for name inputs etc.
++ Changed: Disable SkinsRestorer integration by default in config

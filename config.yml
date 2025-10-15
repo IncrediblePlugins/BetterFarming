@@ -102,6 +102,9 @@ integration:
       # Not just items of the same type or items with the same model-data.
       strict: false
 
+  # Should skins be fetched from the 3rd party plugin SkinsRestorer.
+  # This option requires the option "general.fetch-skins-names" to be enabled.
+  skins-restorer: false
 
 command:
   # Should players need to confirm their purchase at /farm get?
