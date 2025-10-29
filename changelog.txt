@@ -1,2 +1,1 @@
-+ Added: Dialogs for name inputs etc.
-+ Changed: Disable SkinsRestorer integration by default in config
++ Added: [Suggestion] FancyHolograms support for farm holograms
