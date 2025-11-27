@@ -1,1 +1,1 @@
-+ Added: betterfarming-create flag to WorldGuard
++ Added: betterfarming-create flag to WorldGuard to allow the creation of farms in wg regions
