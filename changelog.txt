@@ -1,1 +1,2 @@
 + Added: betterfarming-create flag to WorldGuard to allow the creation of farms in wg regions
++ Added: No longer uses playercache.json. Instead, name and skin are saved to the db for players that have farms
