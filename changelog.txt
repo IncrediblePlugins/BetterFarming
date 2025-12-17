@@ -1,2 +1,2 @@
-+ Added: betterfarming-create flag to WorldGuard to allow the creation of farms in wg regions
-+ Added: No longer uses playercache.json. Instead, name and skin are saved to the db for players that have farms
++ Changed: Set owner to farm item at /farm admin give unless specified otherwise (see below)
++ Added: Argument to /farm admin give - to prevent setting owner to item
