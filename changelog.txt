@@ -1,2 +1,1 @@
-+ Changed: Set owner to farm item at /farm admin give unless specified otherwise (see below)
-+ Added: Argument to /farm admin give - to prevent setting owner to item
+- Fixed: Error on join with playerprofile on spigot

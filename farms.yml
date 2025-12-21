@@ -52,8 +52,8 @@ types:
       # Maximum fuel time.
       max: 7d
       # Let your players charge their farm with items.
-      # Apply model data: https://github.com/Angeschossen/General/wiki/GUI-Menus#set-custom-model-data
-      # The seconds option defines how many seconds each fuel item equals.
+      # Apply model data for custom items: https://github.com/Angeschossen/General/wiki/GUI-Menus#set-custom-model-data
+      # The "seconds" option in the "data" section defines how many seconds each fuel item equals.
       items:
         iron_hoe:
           name: ''
@@ -311,8 +311,8 @@ types:
       # Maximum fuel time.
       max: 7d
       # Let your players charge their farm with items.
-      # Apply model data: https://github.com/Angeschossen/General/wiki/GUI-Menus#set-custom-model-data
-      # The seconds option defines how many seconds each fuel item equals.
+      # Apply model data for custom items: https://github.com/Angeschossen/General/wiki/GUI-Menus#set-custom-model-data
+      # The "seconds" option in the "data" section defines how many seconds each fuel item equals.
       items:
         shears:
           name: ''
@@ -620,8 +620,8 @@ types:
       # Maximum fuel time.
       max: 7d
       # Let your players charge their farm with items.
-      # Apply model data: https://github.com/Angeschossen/General/wiki/GUI-Menus#set-custom-model-data
-      # The seconds option defines how many seconds each fuel item equals.
+      # Apply model data for custom items: https://github.com/Angeschossen/General/wiki/GUI-Menus#set-custom-model-data
+      # The "seconds" option in the "data" section defines how many seconds each fuel item equals.
       items:
         iron_pickaxe:
           name: ''
