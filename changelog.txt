@@ -1,2 +1,1 @@
-+ Added: {storage} placeholder to farm hologram to display used storage
-- Fixed: Minions not clickable
+- Fixed: Error when untrusting player from default area in Lands plugin
