@@ -1,1 +1,1 @@
-- Fixed: Error when untrusting player from default area in Lands plugin
+- Fixed: Error upon placement if Lands levels are disabled
