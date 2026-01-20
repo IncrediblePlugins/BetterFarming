@@ -1,2 +1,2 @@
 + Added: [Suggestion] Support for Nexo blocks and furniture regarding the farm item itself. So you can use Nexo blocks for the center block of the farm instead.
-Please see the default file on how to configure:
+Please see the default file on how to configure: https://github.com/IncrediblePlugins/BetterFarming/blob/master/farms.yml#L13
