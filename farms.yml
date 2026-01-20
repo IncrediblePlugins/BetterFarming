@@ -10,7 +10,22 @@ types:
     name: '&eCrop Farm'
     # The default config uses end rods instead of player heads or armor stands. You can adjust it to whatever you prefer.
     # This also supports custom heads: https://github.com/Angeschossen/PluginFrameworkAPI/wiki/New-Head-Textures
-    item: 'END_ROD'
+    # You can also use Nexo blocks & furniture by setting the material of the item to "nexo:<block-id>".
+    item:
+      name: "&a{type}"
+      lore:
+        - "&7With this item you can create"
+        - "&7a&a {type} &7by placing it on"
+        - "&7the ground."
+        - ""
+        - "&7Information"
+        - "&8• &7Owner:&3 {owner}"
+        - "&8• &7Radius:&3 {radius} &7block(s)"
+        - "&8• &7Growth:&5 {time}"
+        - "&8• &7Storage:&3 {storage} &7slots"
+        - "&8• &7Fuel:&5 {fuel}"
+      material: "END_ROD"
+
     # Use 'AIR' to disable farmland creation.
     farmland: 'FARMLAND'
     cost: 5000.0
@@ -35,6 +50,7 @@ types:
     world-blacklist: [ ]
 
     # Place a small minion npc (armor stand) instead of the actual farm block.
+    # Won't be used if you use a Nexo block or furniture for the farm item.
     minion:
       enabled: false
       helmet: 'skin:925a32560831c295b00527926255e608a039776f3523b92edf788149aae67d6a'
@@ -279,7 +295,20 @@ types:
     name: '&2Tree Farm'
     # The default config uses end rods instead of player heads or armor stands. You can adjust it to whatever you prefer.
     # This also supports custom heads: https://github.com/Angeschossen/PluginFrameworkAPI/wiki/New-Head-Textures
-    item: 'END_ROD'
+    item:
+      name: "&a{type}"
+      lore:
+        - "&7With this item you can create"
+        - "&7a&a {type} &7by placing it on"
+        - "&7the ground."
+        - ""
+        - "&7Information"
+        - "&8• &7Owner:&3 {owner}"
+        - "&8• &7Radius:&3 {radius} &7block(s)"
+        - "&8• &7Growth:&5 {time}"
+        - "&8• &7Storage:&3 {storage} &7slots"
+        - "&8• &7Fuel:&5 {fuel}"
+      material: "END_ROD"
     farmland: 'DIRT'
     cost: 5000.0
     # Should each sapling have multiple growth stages, just like normal saplings do?
@@ -591,7 +620,20 @@ types:
     name: '&7Ore Farm'
     # The default config uses end rods instead of player heads or armor stands. You can adjust it to whatever you prefer.
     # This also supports custom heads: https://github.com/Angeschossen/PluginFrameworkAPI/wiki/New-Head-Textures
-    item: 'END_ROD'
+    item:
+      name: "&a{type}"
+      lore:
+        - "&7With this item you can create"
+        - "&7a&a {type} &7by placing it on"
+        - "&7the ground."
+        - ""
+        - "&7Information"
+        - "&8• &7Owner:&3 {owner}"
+        - "&8• &7Radius:&3 {radius} &7block(s)"
+        - "&8• &7Growth:&5 {time}"
+        - "&8• &7Storage:&3 {storage} &7slots"
+        - "&8• &7Fuel:&5 {fuel}"
+      material: "END_ROD"
     farmland: 'AIR'
     cost: 5000.0
     require-owner-online: false
