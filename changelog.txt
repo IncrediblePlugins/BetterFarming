@@ -1,2 +1,2 @@
-+ Added: [Suggestion] Support for Nexo blocks and furniture regarding the farm item itself. So you can use Nexo blocks for the center block of the farm instead.
-Please see the default file on how to configure: https://github.com/IncrediblePlugins/BetterFarming/blob/master/farms.yml#L13
+- Fixed: Farm deletion not working with armor stands in survial mode
+- Fixed: Only load farm if chunk of the farm block is loaded at chunk load event
