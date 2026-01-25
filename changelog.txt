@@ -1,2 +1,1 @@
-- Fixed: Farm deletion not working with armor stands in survial mode
-- Fixed: Only load farm if chunk of the farm block is loaded at chunk load event
+- Fixed: Custom item providers such as nexo not applying to harvest items and fuel items
